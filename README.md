@@ -1,2 +1,16 @@
-# GST-Billing-System
-GST Billing System is a web-based application for creating, managing, and printing GST invoices with automatic tax calculations, invoice tracking, and customer management using HTML, CSS, and JavaScript.
+# GST Billing System
+
+A web-based GST Billing System built using HTML, CSS, and JavaScript.
+
+## Features
+- Create GST invoices
+- Automatic CGST, SGST, and IGST calculations
+- Customer management
+- Invoice tracking
+- Print invoices
+- Local storage support
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
